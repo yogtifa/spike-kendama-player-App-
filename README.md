@@ -1,5 +1,4 @@
 # spike-kendama-player-App-
-A mobile app for kendama players
 Hello evertone,
 We want to create a mobie application for the kendama player 
 It will have 4 main part
